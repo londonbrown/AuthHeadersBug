@@ -1,0 +1,8 @@
+<idea-plugin>
+    <id>londonbrown.authheadersbug</id>
+    <name>Auth Headers Bug</name>
+    <vendor>londonbrown@website.com</vendor>
+    <extensions defaultExtensionNs="com.intellij">
+        <pluginRepositoryAuthProvider implementation="londonbrown.authheadersbug.MyPluginRepositoryAuthProvider" />
+    </extensions>
+</idea-plugin>
