@@ -22,5 +22,5 @@ test {
 }
 
 intellij {
-    version.set("2022.2")
+    version.set("223.7571.182")
 }
